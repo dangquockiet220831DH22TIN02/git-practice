@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là <Dang quoc kiet>, MSSV <220831 >.
+Đây là README từ nhánh main.
